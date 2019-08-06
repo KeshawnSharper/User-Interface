@@ -64,3 +64,93 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav{
+	display:inline-block;
+	/* Stetch goal: sticky top */
+	position: fixed;
+	top:0;
+	width:100%;
+}
+a{
+	margin-left:90px;
+	text-decoration: none;
+	color:grey;
+}
+.logo{
+	margin-left:90px;
+}
+.title,
+.header-img{
+	display: inline-block;
+}
+h1{
+	font-size:64px;
+}
+
+
+
+
+
+.heading{
+	margin-top: 70px;
+	margin-left: 250px;
+	text-align: center;
+}
+.title{
+	
+	position: absolute;
+	margin-left:-260px;
+	margin-top:50px;
+	
+}
+button{
+	background: white;
+	padding:15px;
+	border-color:black;
+}
+.middle-cont{
+	margin-left: 200px;
+}
+.mid-top-cont{
+	display:inline-block;
+	width:100%;
+}
+.mid-top-card{
+	width:35%;
+	margin-left:50px;
+	display:inline-block;
+}
+.mid-bot-cont{
+	display:inline-block;
+	width:100%;
+	margin-left:50px;
+}
+.mid-bot-card{
+	width:25%;
+	display: inline-block;
+	margin-bottom:90px;
+}
+img{
+	margin-left:45px;
+	
+}
+
+
+
+
+
+
+
+.address{
+	margin-left: 250px;
+	margin-bottom: 50px;
+}
+
+
+
+
+
+
+footer{
+	text-align: center;
+}
